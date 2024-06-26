@@ -1,0 +1,41 @@
+[
+  {
+    "category_id": "HISTORY",
+    "lang": "en",
+    "tags": [
+      "HISTORY"
+    ],
+    "question": "In the Christmas song 'Have Yourself A Merry Little Christmas' what \"will be out of sight\"?",
+    "answer": 0,
+    "answers": [
+      "Troubles"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "HISTORY",
+    "lang": "en",
+    "tags": [
+      "HISTORY"
+    ],
+    "question": "What Letter Comes Next In The Following Sequence \"B, C, C, D, D, D, P, R\" 'Blitzen, Comet, Cupid, Dancer, Dasher, Donner, Prancer, Rudolph, Vixen'' \"?",
+    "answer": 0,
+    "answers": [
+      "V= Santa's Reindeers in Alphabetical Order"
+    ],
+    "source": ""
+  },
+  {
+    "category_id": "HISTORY",
+    "lang": "en",
+    "tags": [
+      "HISTORY"
+    ],
+    "question": "Which of the following was not one of the Three Kings? \"Balthazar\" - \"Melchior\" - \"Soloman\" - \"Caspar\" \"?",
+    "answer": 0,
+    "answers": [
+      "Soloman"
+    ],
+    "source": ""
+  }
+]
